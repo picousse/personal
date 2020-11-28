@@ -24,10 +24,10 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
+#[[feature]]
+#  icon = "linux"
+#  icon_pack = "fab"
+#  name = "Linux"
 
 [[feature]]
   icon = "database"
@@ -38,6 +38,17 @@ subtitle = ""
   icon = "bacteria"
   icon_pack = "fas"
   name = "Biotech"
+
+[[feature]]
+  icon = "bezier-curve"
+  icon_pack = "fas"
+  name = "SysBio"
+
+[[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "SynBio"
+
 
 
 # [[feature]]
