@@ -6,7 +6,7 @@ title: Pieter Coussement
 superuser: true
 
 # Role/position
-role: Team Lead R&D
+role: Team Lead R&D / Data engineer
 
 # Organizations/Affiliations
 organizations:
