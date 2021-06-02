@@ -17,13 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Date Engineering"
+  company = "ml6"
+  company_url = "https://www.ml6.eu/"
+  location = "Ghent - Belgium"
+  date_start = "2021-04-19"
+  date_end = ""
+  description = """
+    Data Engineer @ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
+    A lot of work in Google Cloud.
+    Tools: Terraform, Dataflow, Kubernetes, Kubeflow, Bigquery. TensorFlow,...
+  """
+
+
+
 [[experience]]
   title = "Teamlead R&D"
   company = "Inbiose"
   company_url = "https://www.inbiose.com"
   location = "Ghent - Belgium"
   date_start = "2016-10-01"
-  date_end = ""
+  date_end = "2021-04-09"
   description = """
   [Goal] Development of production process for HMO using novel production micro-organisms.
   I'm involved in:
