@@ -41,6 +41,7 @@ date_format = "Jan 2006"
   - data visualisation: wrote different R shiny apps helping with data visualisation (R Shiny, Grafana)
   - data tools: developed different webapps that talk to different databases and allow operators to modify the data using a webbrowser (python3, flask). Setup web tools like Rstudio, Jupyter and Galaxy.
   - setting up IT in
+  """
 
 [[experience]]
   title = "Teamlead R&D"
