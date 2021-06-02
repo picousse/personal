@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Date Engineering"
+  title = "Date Engineer"
   company = "ml6"
   company_url = "https://www.ml6.eu/"
   location = "Ghent - Belgium"
   date_start = "2021-04-19"
   date_end = ""
   description = """
-    Data Engineer @ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
+    Data Engineer at ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
     A lot of work in Google Cloud.
     Tools: Terraform, Dataflow, Kubernetes, Kubeflow, Bigquery. TensorFlow,...
   """
