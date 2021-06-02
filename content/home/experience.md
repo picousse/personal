@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_start = "2021-04-19"
   date_end = ""
   description = """
-    Data Engineer at ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
-    A lot of work in Google Cloud.
-    Tools: Terraform, Dataflow, Kubernetes, Kubeflow, Bigquery. TensorFlow,...
+  Data Engineer at ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
+  A lot of work in Google Cloud.
+  Tools: Terraform, Dataflow, Kubernetes, Kubeflow, Bigquery. TensorFlow,...
   """
 
 [[experience]]
