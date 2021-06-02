@@ -26,21 +26,9 @@ date_format = "Jan 2006"
   date_start = "2021-04-19"
   date_end = ""
   description = """
-  [Goal] Development of production process for HMO using novel production micro-organisms.
-  I'm involved in:
-
-  - planning and designing novel metabolic production pathways
-  - identification and solving of pathway bottlenecks (theoretical: literature/databases/modeling and practical: UPLC/HPLC, genotyping, phenotyping)
-  - bioinformatics: alternative genes / pathways (Galaxy, blast, ETE)
-  - planning strain building: leading team towards efficient host construction
-  - evaluation: from high throughput microtiter plate up to 5L fermentors
-  - involved in process development: optimization and alignment of fermentation and DSP processes.
-
-  - data capture: capturing lab data from operators and machines and store in databases (PostgreSQL, influxDB, neo4j)
-  - data analysis: wrote several packages to help with data extraction and analysis (python3 and R)
-  - data visualisation: wrote different R shiny apps helping with data visualisation (R Shiny, Grafana)
-  - data tools: developed different webapps that talk to different databases and allow operators to modify the data using a webbrowser (python3, flask). Setup web tools like Rstudio, Jupyter and Galaxy.
-  - setting up IT in
+    Data Engineer at ML6 means a lot of data engineering, a bit of software engineering and a bit of machine learning.
+    A lot of work in Google Cloud.
+    Tools: Terraform, Dataflow, Kubernetes, Kubeflow, Bigquery. TensorFlow,...
   """
 
 [[experience]]
